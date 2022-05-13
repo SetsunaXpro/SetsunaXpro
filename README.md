@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SetsunaXpro
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning c#,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
    ～Insta @Admin_setsu
